@@ -26,14 +26,14 @@ jobs:
         run: pnpm install
 
       - name: Export Dub (Next.js static site)
-        run: pnpm --filter web export
+        run: pnpm --filter web build
         
       - name: List contents of apps/web
         run: ls -la apps/web
         
       - name: List contents of apps/web/out
         run: ls -la apps/web/out
-        
+
       - name: Deploy to Azure Static Web Apps
         uses: Azure/static-web-apps-deploy@v1
         with:
