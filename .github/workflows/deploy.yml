@@ -1,5 +1,5 @@
 
-name: Build and Deploy Dub
+name: Build and Deploy Dub again
 
 on:
   push:
