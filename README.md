@@ -1,5 +1,5 @@
 <a href="https://dub.co">
-  <img alt="Dub is the modern, open-source link attribution platform for short links, conversion tracking, and affiliate programs." src="https://github.com/user-attachments/assets/42cf0705-f5a2-4200-bc4a-c5acf0ba9e15">
+  <img alt="Dub is the modern, open-source link attribution platform for short links, conversion tracking, and affiliate programs. DELETE-THIS" src="https://github.com/user-attachments/assets/42cf0705-f5a2-4200-bc4a-c5acf0ba9e15">
 </a>
 
 <h3 align="center">Dub</h3>
