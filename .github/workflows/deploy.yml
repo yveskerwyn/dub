@@ -1,5 +1,5 @@
 
-name: Build and Deploy Dub again
+name: Build and Deploy Dub
 
 on:
   push:
@@ -36,3 +36,4 @@ jobs:
           action: "upload"
           app_location: "apps/web"
           output_location: "apps/web/out"
+          skip_app_build: true
